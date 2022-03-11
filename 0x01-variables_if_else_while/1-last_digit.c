@@ -1,5 +1,5 @@
-#include<stdlib.h> 
-#include<time.h> 
+#include<stdlib.h>
+#include<time.h>
 #include<stdio.h>
 /*
  * main - Entry point
@@ -12,6 +12,7 @@
  */
 
 int main(void)
+
 {
 	int n, digit;
 
